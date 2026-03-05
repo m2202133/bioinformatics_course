@@ -1,0 +1,1 @@
+zsh: ./scripts/my-script.sh: bad interpreter: /usr/bin/env bash: exec format error
